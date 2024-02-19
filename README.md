@@ -1,6 +1,6 @@
 # Lexicon
 
-
+![alt text](https://github.com/Ket-tei/lexicon/blob/main/RessourcesReadMe/UniversiteLogo.jpg)
 
 # R1.01 – Initiation au développement  
 ## S1.02 Comparaison d’approches algorithmiques 
@@ -45,6 +45,7 @@ Et ce programme s’arrête lorsqu’il a 1 ou moins de 1 joueur.
 ## Graph de dépendance
 
 
+![alt text](https://github.com/Ket-tei/lexicon/blob/main/RessourcesReadMe/GrapheDependsance.png)
 
 Graph de dépendance du Lexicon
 
@@ -72,6 +73,7 @@ Raphaël DESMONTS, Juliette Cournon
 
 
 
+![alt text](https://github.com/Ket-tei/lexicon/blob/main/RessourcesReadMe/UniversiteLogo.jpg)
 
 
 
