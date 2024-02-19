@@ -5,11 +5,6 @@
  * @version 1.0 12/12/2023
 */
 
-/**
- * erreur saisie
- * rapport
-*/
-
 #include "../include/commande.hpp"
 
 int main(int argc, char** argv)
